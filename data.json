@@ -1,0 +1,137 @@
+{
+  "lessons": [
+    {
+      "lesson": 1,
+      "title": "Lesson 1",
+      "categories": [
+        {
+          "category": "Nouns",
+          "words": [
+            { "jp": "わたし", "reading": "わたし", "meaning": "I" },
+            { "jp": "あなた", "reading": "あなた", "meaning": "you" },
+            { "jp": "あのひと", "reading": "あのひと", "meaning": "that person" },
+            { "jp": "あのかた", "reading": "あのかた", "meaning": "that person (polite)" },
+            { "jp": "みなさん", "reading": "みなさん", "meaning": "everyone" },
+            { "jp": "～さん", "reading": "～さん", "meaning": "Mr./Ms." },
+            { "jp": "～ちゃん", "reading": "～ちゃん", "meaning": "cute suffix" },
+            { "jp": "～くん", "reading": "～くん", "meaning": "for boys" },
+            { "jp": "せんせい", "reading": "せんせい", "meaning": "teacher" },
+            { "jp": "きょうし", "reading": "きょうし", "meaning": "instructor" },
+            { "jp": "がくせい", "reading": "がくせい", "meaning": "student" },
+            { "jp": "かいしゃいん", "reading": "かいしゃいん", "meaning": "company employee" },
+            { "jp": "しゃいん", "reading": "しゃいん", "meaning": "employee" },
+            { "jp": "ぎんこういん", "reading": "ぎんこういん", "meaning": "bank employee" },
+            { "jp": "いしゃ", "reading": "いしゃ", "meaning": "doctor" },
+            { "jp": "けんきゅうしゃ", "reading": "けんきゅうしゃ", "meaning": "researcher" },
+            { "jp": "エンジニア", "reading": "エンジニア", "meaning": "engineer" }
+          ]
+        },
+        {
+          "category": "Countries",
+          "words": [
+            { "jp": "にほん", "reading": "にほん", "meaning": "Japan" },
+            { "jp": "アメリカ", "reading": "アメリカ", "meaning": "USA" },
+            { "jp": "イギリス", "reading": "イギリス", "meaning": "UK" },
+            { "jp": "インド", "reading": "インド", "meaning": "India" },
+            { "jp": "インドネシア", "reading": "インドネシア", "meaning": "Indonesia" },
+            { "jp": "かんこく", "reading": "かんこく", "meaning": "Korea" },
+            { "jp": "タイ", "reading": "タイ", "meaning": "Thailand" },
+            { "jp": "ちゅうごく", "reading": "ちゅうごく", "meaning": "China" },
+            { "jp": "ドイツ", "reading": "ドイツ", "meaning": "Germany" },
+            { "jp": "フランス", "reading": "フランス", "meaning": "France" }
+          ]
+        },
+        {
+          "category": "Others",
+          "words": [
+            { "jp": "だいがく", "reading": "だいがく", "meaning": "university" },
+            { "jp": "びょういん", "reading": "びょういん", "meaning": "hospital" },
+            { "jp": "でんき", "reading": "でんき", "meaning": "electricity/electronics" },
+            { "jp": "だれ", "reading": "だれ", "meaning": "who" },
+            { "jp": "どなた", "reading": "どなた", "meaning": "who (polite)" },
+            { "jp": "～さい", "reading": "～さい", "meaning": "years old" },
+            { "jp": "なんさい", "reading": "なんさい", "meaning": "how old" },
+            { "jp": "おいくつ", "reading": "おいくつ", "meaning": "how old (polite)" }
+          ]
+        },
+        {
+          "category": "Expressions",
+          "words": [
+            { "jp": "はい", "reading": "はい", "meaning": "yes" },
+            { "jp": "いいえ", "reading": "いいえ", "meaning": "no" },
+            { "jp": "はじめまして", "reading": "はじめまして", "meaning": "nice to meet you" },
+            { "jp": "～からきました", "reading": "～からきました", "meaning": "I’m from ~" },
+            { "jp": "どうぞよろしく", "reading": "どうぞよろしく", "meaning": "please treat me well" },
+            { "jp": "しつれいですが", "reading": "しつれいですが", "meaning": "excuse me" },
+            { "jp": "おなまえは？", "reading": "おなまえは？", "meaning": "your name?" }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "Lesson 2",
+      "categories": [
+        {
+          "category": "Things",
+          "words": [
+            { "jp": "これ", "reading": "これ", "meaning": "this" },
+            { "jp": "それ", "reading": "それ", "meaning": "that (near listener)" },
+            { "jp": "あれ", "reading": "あれ", "meaning": "that (far)" },
+            { "jp": "この～", "reading": "この～", "meaning": "this ~" },
+            { "jp": "その～", "reading": "その～", "meaning": "that ~" },
+            { "jp": "あの～", "reading": "あの～", "meaning": "that ~" }
+          ]
+        },
+        {
+          "category": "Objects",
+          "words": [
+            { "jp": "ほん", "reading": "ほん", "meaning": "book" },
+            { "jp": "じしょ", "reading": "じしょ", "meaning": "dictionary" },
+            { "jp": "ざっし", "reading": "ざっし", "meaning": "magazine" },
+            { "jp": "しんぶん", "reading": "しんぶん", "meaning": "newspaper" },
+            { "jp": "ノート", "reading": "ノート", "meaning": "notebook" },
+            { "jp": "てちょう", "reading": "てちょう", "meaning": "planner" },
+            { "jp": "めいし", "reading": "めいし", "meaning": "business card" },
+            { "jp": "カード", "reading": "カード", "meaning": "card" },
+            { "jp": "えんぴつ", "reading": "えんぴつ", "meaning": "pencil" },
+            { "jp": "ボールペン", "reading": "ボールペン", "meaning": "ballpoint pen" },
+            { "jp": "シャープペンシル", "reading": "シャープペンシル", "meaning": "mechanical pencil" },
+            { "jp": "かぎ", "reading": "かぎ", "meaning": "key" },
+            { "jp": "とけい", "reading": "とけい", "meaning": "watch/clock" },
+            { "jp": "かさ", "reading": "かさ", "meaning": "umbrella" },
+            { "jp": "かばん", "reading": "かばん", "meaning": "bag" },
+            { "jp": "CD", "reading": "CD", "meaning": "CD" },
+            { "jp": "テレビ", "reading": "テレビ", "meaning": "TV" },
+            { "jp": "ラジオ", "reading": "ラジオ", "meaning": "radio" },
+            { "jp": "カメラ", "reading": "カメラ", "meaning": "camera" },
+            { "jp": "コンピューター", "reading": "コンピューター", "meaning": "computer" },
+            { "jp": "くるま", "reading": "くるま", "meaning": "car" },
+            { "jp": "つくえ", "reading": "つくえ", "meaning": "desk" },
+            { "jp": "いす", "reading": "いす", "meaning": "chair" },
+            { "jp": "チョコレート", "reading": "チョコレート", "meaning": "chocolate" },
+            { "jp": "コーヒー", "reading": "コーヒー", "meaning": "coffee" }
+          ]
+        },
+        {
+          "category": "Others",
+          "words": [
+            { "jp": "だれの", "reading": "だれの", "meaning": "whose" },
+            { "jp": "いくら", "reading": "いくら", "meaning": "how much" }
+          ]
+        },
+        {
+          "category": "Expressions",
+          "words": [
+            { "jp": "そうです", "reading": "そうです", "meaning": "that’s right" },
+            { "jp": "ちがいます", "reading": "ちがいます", "meaning": "that’s wrong" },
+            { "jp": "そうですか", "reading": "そうですか", "meaning": "I see" },
+            { "jp": "どうぞ", "reading": "どうぞ", "meaning": "please" },
+            { "jp": "どうも", "reading": "どうも", "meaning": "thanks" },
+            { "jp": "ありがとうございます", "reading": "ありがとうございます", "meaning": "thank you (polite)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

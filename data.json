@@ -132,6 +132,90 @@
           ]
         }
       ]
+    },
+    {
+      "lesson": 3,
+      "title": "Lesson 3",
+      "categories": [
+        {
+          "category": "Place Words",
+          "words": [
+            { "jp": "ここ", "reading": "ここ", "meaning": "here, this place" },
+            { "jp": "そこ", "reading": "そこ", "meaning": "there, that place near you" },
+            { "jp": "あそこ", "reading": "あそこ", "meaning": "that place over there" },
+            { "jp": "どこ", "reading": "どこ", "meaning": "where, what place" },
+            { "jp": "こちら", "reading": "こちら", "meaning": "this way, this place (polite equivalent of ここ)" },
+            { "jp": "そちら", "reading": "そちら", "meaning": "that way, that place near you (polite equivalent of そこ)" },
+            { "jp": "あちら", "reading": "あちら", "meaning": "that way, that place over there (polite equivalent of あそこ)" },
+            { "jp": "どちら", "reading": "どちら", "meaning": "which way, where (polite equivalent of どこ)" }
+          ]
+        },
+        {
+          "category": "Rooms & Facilities",
+          "words": [
+            { "jp": "きょうしつ", "reading": "きょうしつ", "meaning": "classroom" },
+            { "jp": "しょくどう", "reading": "しょくどう", "meaning": "dining hall, canteen" },
+            { "jp": "じむしょ", "reading": "じむしょ", "meaning": "office" },
+            { "jp": "かいぎしつ", "reading": "かいぎしつ", "meaning": "conference room, assembly room" },
+            { "jp": "うけつけ", "reading": "うけつけ", "meaning": "reception desk" },
+            { "jp": "ロビー", "reading": "ロビー", "meaning": "lobby" },
+            { "jp": "へや", "reading": "へや", "meaning": "room" },
+            { "jp": "トイレ", "reading": "トイレ", "meaning": "toilet, rest room" },
+            { "jp": "おてあらい", "reading": "おてあらい", "meaning": "toilet, rest room" },
+            { "jp": "かいだん", "reading": "かいだん", "meaning": "staircase" },
+            { "jp": "エレベーター", "reading": "エレベーター", "meaning": "elevator, lift" },
+            { "jp": "エスカレーター", "reading": "エスカレーター", "meaning": "escalator" },
+            { "jp": "うりば", "reading": "うりば", "meaning": "department, counter (in a department store)" }
+          ]
+        },
+        {
+          "category": "Nouns",
+          "words": [
+            { "jp": "おくに", "reading": "おくに", "meaning": "country" },
+            { "jp": "かいしゃ", "reading": "かいしゃ", "meaning": "company" },
+            { "jp": "うち", "reading": "うち", "meaning": "house, home" },
+            { "jp": "でんわ", "reading": "でんわ", "meaning": "telephone, telephone call" },
+            { "jp": "くつ", "reading": "くつ", "meaning": "shoes" },
+            { "jp": "ネクタイ", "reading": "ネクタイ", "meaning": "necktie" },
+            { "jp": "ワイン", "reading": "ワイン", "meaning": "wine" },
+            { "jp": "たばこ", "reading": "たばこ", "meaning": "tobacco, cigarette" }
+          ]
+        },
+        {
+          "category": "Numbers & Counters",
+          "words": [
+            { "jp": "ちか", "reading": "ちか", "meaning": "basement" },
+            { "jp": "いっかい", "reading": "いっかい", "meaning": "-th floor" },
+            { "jp": "なんがい", "reading": "なんがい", "meaning": "what floor" },
+            { "jp": "えん", "reading": "えん", "meaning": "yen" },
+            { "jp": "いくら", "reading": "いくら", "meaning": "how much" },
+            { "jp": "ひゃく", "reading": "ひゃく", "meaning": "hundred" },
+            { "jp": "せん", "reading": "せん", "meaning": "thousand" },
+            { "jp": "まん", "reading": "まん", "meaning": "ten thousand" }
+          ]
+        },
+        {
+          "category": "Expressions",
+          "words": [
+            { "jp": "すみません", "reading": "すみません", "meaning": "Excuse me." },
+            { "jp": "〜でございます", "reading": "〜でございます", "meaning": "(polite equivalent of です)" },
+            { "jp": "〜をみせてください", "reading": "〜をみせてください", "meaning": "Please show me [~]." },
+            { "jp": "じゃ", "reading": "じゃ", "meaning": "well, then, in that case" },
+            { "jp": "〜をください", "reading": "〜をください", "meaning": "Give me [~], please." }
+          ]
+        },
+        {
+          "category": "Proper Nouns",
+          "words": [
+            { "jp": "しんおおさか", "reading": "しんおおさか", "meaning": "name of a station in Osaka" },
+            { "jp": "イタリア", "reading": "イタリア", "meaning": "Italy" },
+            { "jp": "スイス", "reading": "スイス", "meaning": "Switzerland" },
+            { "jp": "MT", "reading": "MT", "meaning": "fictitious companies" },
+            { "jp": "ヨーネン", "reading": "ヨーネン", "meaning": "fictitious companies" },
+            { "jp": "アキックス", "reading": "アキックス", "meaning": "fictitious companies" }
+          ]
+        }
+      ]
     }
   ]
 }

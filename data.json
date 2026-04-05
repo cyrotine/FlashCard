@@ -216,6 +216,111 @@
           ]
         }
       ]
+    },
+    {
+      "lesson": 4,
+      "title": "Lesson 4",
+      "categories": [
+        {
+          "category": "Verbs",
+          "words": [
+            { "jp": "おきます", "reading": "おきます", "meaning": "get up, wake up" },
+            { "jp": "ねます", "reading": "ねます", "meaning": "sleep, go to bed" },
+            { "jp": "はたらきます", "reading": "はたらきます", "meaning": "work" },
+            { "jp": "やすみます", "reading": "やすみます", "meaning": "take a rest, take a holiday" },
+            { "jp": "べんきょうします", "reading": "べんきょうします", "meaning": "study" },
+            { "jp": "おわります", "reading": "おわります", "meaning": "finish" }
+          ]
+        },
+        {
+          "category": "Places",
+          "words": [
+            { "jp": "デパート", "reading": "デパート", "meaning": "department store" },
+            { "jp": "ぎんこう", "reading": "ぎんこう", "meaning": "bank" },
+            { "jp": "ゆうびんきょく", "reading": "ゆうびんきょく", "meaning": "post office" },
+            { "jp": "としょかん", "reading": "としょかん", "meaning": "library" },
+            { "jp": "びじゅつかん", "reading": "びじゅつかん", "meaning": "art museum" }
+          ]
+        },
+        {
+          "category": "Time",
+          "words": [
+            { "jp": "いま", "reading": "いま", "meaning": "now" },
+            { "jp": "ーじ", "reading": "ーじ", "meaning": "— o'clock" },
+            { "jp": "ーふん（ーぷん）", "reading": "ーふん（ーぷん）", "meaning": "— minute" },
+            { "jp": "はん", "reading": "はん", "meaning": "half" },
+            { "jp": "なんじ", "reading": "なんじ", "meaning": "what time" },
+            { "jp": "なんぶん", "reading": "なんぶん", "meaning": "what minute" },
+            { "jp": "ごぜん", "reading": "ごぜん", "meaning": "a.m., morning" },
+            { "jp": "ごご", "reading": "ごご", "meaning": "p.m., afternoon" },
+            { "jp": "あさ", "reading": "あさ", "meaning": "morning" },
+            { "jp": "ひる", "reading": "ひる", "meaning": "daytime, noon" },
+            { "jp": "ばん（よる）", "reading": "ばん（よる）", "meaning": "night, evening" },
+            { "jp": "おととい", "reading": "おととい", "meaning": "the day before yesterday" },
+            { "jp": "きのう", "reading": "きのう", "meaning": "yesterday" },
+            { "jp": "きょう", "reading": "きょう", "meaning": "today" },
+            { "jp": "あした", "reading": "あした", "meaning": "tomorrow" },
+            { "jp": "あさって", "reading": "あさって", "meaning": "the day after tomorrow" },
+            { "jp": "けさ", "reading": "けさ", "meaning": "this morning" },
+            { "jp": "こんばん", "reading": "こんばん", "meaning": "this evening, tonight" },
+            { "jp": "やすみ", "reading": "やすみ", "meaning": "rest, a holiday, a day off" },
+            { "jp": "ひるやすみ", "reading": "ひるやすみ", "meaning": "lunchtime" },
+            { "jp": "まいあさ", "reading": "まいあさ", "meaning": "every morning" },
+            { "jp": "まいばん", "reading": "まいばん", "meaning": "every night" },
+            { "jp": "まいにち", "reading": "まいにち", "meaning": "every day" }
+          ]
+        },
+        {
+          "category": "Days of the Week",
+          "words": [
+            { "jp": "げつようび", "reading": "げつようび", "meaning": "Monday" },
+            { "jp": "かようび", "reading": "かようび", "meaning": "Tuesday" },
+            { "jp": "すいようび", "reading": "すいようび", "meaning": "Wednesday" },
+            { "jp": "もくようび", "reading": "もくようび", "meaning": "Thursday" },
+            { "jp": "きんようび", "reading": "きんようび", "meaning": "Friday" },
+            { "jp": "どようび", "reading": "どようび", "meaning": "Saturday" },
+            { "jp": "にちようび", "reading": "にちようび", "meaning": "Sunday" },
+            { "jp": "なんようび", "reading": "なんようび", "meaning": "what day of the week" }
+          ]
+        },
+        {
+          "category": "Other Nouns & Particles",
+          "words": [
+            { "jp": "ばんごう", "reading": "ばんごう", "meaning": "number" },
+            { "jp": "なんばん", "reading": "なんばん", "meaning": "what number" },
+            { "jp": "～から", "reading": "～から", "meaning": "from ～" },
+            { "jp": "～まで", "reading": "～まで", "meaning": "up to ～, until ～" },
+            { "jp": "～と～", "reading": "～と～", "meaning": "and (used to connect nouns)" }
+          ]
+        },
+        {
+          "category": "Expressions",
+          "words": [
+            { "jp": "そちら", "reading": "そちら", "meaning": "your place" },
+            { "jp": "たいへんですね。", "reading": "たいへんですね。", "meaning": "That’s tough, isn’t it? (used when expressing sympathy)" },
+            { "jp": "えーと", "reading": "えーと", "meaning": "well, let me see" },
+            { "jp": "１０４", "reading": "いちまるよん", "meaning": "information, directory assistance" },
+            { "jp": "おねがいします。", "reading": "おねがいします。", "meaning": "Please. (lit. ask for a favor)" },
+            { "jp": "かしこまりました。", "reading": "かしこまりました。", "meaning": "Certainly (sir, madam)" },
+            { "jp": "おといあわせのばんごう", "reading": "おといあわせのばんごう", "meaning": "the number being inquired about" },
+            { "jp": "ありがとうございました。", "reading": "ありがとうございました。", "meaning": "Thank you very much." }
+          ]
+        },
+        {
+          "category": "Proper Nouns",
+          "words": [
+            { "jp": "ニューヨーク", "reading": "ニューヨーク", "meaning": "New York" },
+            { "jp": "ペキン", "reading": "ペキン", "meaning": "Beijing (北京)" },
+            { "jp": "ロンドン", "reading": "ロンドン", "meaning": "London" },
+            { "jp": "バンコク", "reading": "バンコク", "meaning": "Bangkok" },
+            { "jp": "ロサンゼルス", "reading": "ロサンゼルス", "meaning": "Los Angeles" },
+            { "jp": "やまとびじゅつかん", "reading": "やまとびじゅつかん", "meaning": "fictitious art museum" },
+            { "jp": "おおさかデパート", "reading": "おおさかデパート", "meaning": "fictitious department store" },
+            { "jp": "みどりとしょかん", "reading": "みどりとしょかん", "meaning": "fictitious library" },
+            { "jp": "アップルぎんこう", "reading": "アップルぎんこう", "meaning": "fictitious bank" }
+          ]
+        }
+      ]
     }
   ]
 }

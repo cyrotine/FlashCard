@@ -436,6 +436,205 @@
           ]
         }
       ]
+    },
+    {
+      "lesson": 6,
+      "title": "Lesson 6",
+      "categories": [
+        {
+          "category": "Verbs",
+          "words": [
+            { "jp": "たべます", "reading": "たべます", "meaning": "eat" },
+            { "jp": "のみます", "reading": "のみます", "meaning": "drink" },
+            { "jp": "すいます", "reading": "すいます", "meaning": "smoke [a cigarette] (たばこを〜)" },
+            { "jp": "みます", "reading": "みます", "meaning": "see, look at, watch" },
+            { "jp": "ききます", "reading": "ききます", "meaning": "hear, listen" },
+            { "jp": "よみます", "reading": "よみます", "meaning": "read" },
+            { "jp": "かきます", "reading": "かきます", "meaning": "write, draw, paint" },
+            { "jp": "かいます", "reading": "かいます", "meaning": "buy" },
+            { "jp": "とります", "reading": "とります", "meaning": "take [a photograph] (写真を〜)" },
+            { "jp": "します", "reading": "します", "meaning": "do" },
+            { "jp": "あいます", "reading": "あいます", "meaning": "meet [a friend] (友達に〜)" }
+          ]
+        },
+        {
+          "category": "Food",
+          "words": [
+            { "jp": "ごはん", "reading": "ごはん", "meaning": "a meal, cooked rice" },
+            { "jp": "あさごはん", "reading": "あさごはん", "meaning": "breakfast" },
+            { "jp": "ひるごはん", "reading": "ひるごはん", "meaning": "lunch" },
+            { "jp": "ばんごはん", "reading": "ばんごはん", "meaning": "supper" },
+            { "jp": "パン", "reading": "パン", "meaning": "bread" },
+            { "jp": "たまご", "reading": "たまご", "meaning": "egg" },
+            { "jp": "にく", "reading": "にく", "meaning": "meat" },
+            { "jp": "さかな", "reading": "さかな", "meaning": "fish" },
+            { "jp": "やさい", "reading": "やさい", "meaning": "vegetable" },
+            { "jp": "くだもの", "reading": "くだもの", "meaning": "fruit" }
+          ]
+        },
+        {
+          "category": "Drinks",
+          "words": [
+            { "jp": "みず", "reading": "みず", "meaning": "water" },
+            { "jp": "おちゃ", "reading": "おちゃ", "meaning": "tea, green tea" },
+            { "jp": "こうちゃ", "reading": "こうちゃ", "meaning": "black tea" },
+            { "jp": "ぎゅうにゅう(ミルク)", "reading": "ぎゅうにゅう(ミルク)", "meaning": "milk" },
+            { "jp": "ジュース", "reading": "ジュース", "meaning": "juice" },
+            { "jp": "ビール", "reading": "ビール", "meaning": "beer" },
+            { "jp": "[お]さけ", "reading": "[お]さけ", "meaning": "alcohol, Japanese rice wine" }
+          ]
+        },
+        {
+          "category": "Media & Objects",
+          "words": [
+            { "jp": "ビデオ", "reading": "ビデオ", "meaning": "video tape, video deck" },
+            { "jp": "えいが", "reading": "えいが", "meaning": "movie" },
+            { "jp": "CD", "reading": "CD", "meaning": "CD, compact disc" },
+            { "jp": "てがみ", "reading": "てがみ", "meaning": "letter" },
+            { "jp": "レポート", "reading": "レポート", "meaning": "report" },
+            { "jp": "しゃしん", "reading": "しゃしん", "meaning": "photograph" }
+          ]
+        },
+        {
+          "category": "Places",
+          "words": [
+            { "jp": "みせ", "reading": "みせ", "meaning": "store, shop" },
+            { "jp": "レストラン", "reading": "レストラン", "meaning": "restaurant" },
+            { "jp": "にわ", "reading": "にわ", "meaning": "garden" }
+          ]
+        },
+        {
+          "category": "Activities",
+          "words": [
+            { "jp": "しゅくだい", "reading": "しゅくだい", "meaning": "homework (〜をします do homework)" },
+            { "jp": "テニス", "reading": "テニス", "meaning": "tennis (〜をします play tennis)" },
+            { "jp": "サッカー", "reading": "サッカー", "meaning": "soccer, football (〜をします play soccer)" },
+            { "jp": "[お]はなみ", "reading": "[お]はなみ", "meaning": "cherry-blossom viewing (〜をします go cherry-blossom viewing)" }
+          ]
+        },
+        {
+          "category": "Others",
+          "words": [
+            { "jp": "なに", "reading": "なに", "meaning": "what" },
+            { "jp": "いっしょに", "reading": "いっしょに", "meaning": "together" },
+            { "jp": "ちょっと", "reading": "ちょっと", "meaning": "a little while, a little bit" },
+            { "jp": "いつも", "reading": "いつも", "meaning": "always, usually" },
+            { "jp": "ときどき", "reading": "ときどき", "meaning": "sometimes" },
+            { "jp": "それから", "reading": "それから", "meaning": "after that, and then" },
+            { "jp": "ええ", "reading": "ええ", "meaning": "yes" }
+          ]
+        },
+        {
+          "category": "Expressions",
+          "words": [
+            { "jp": "いいですね。", "reading": "いいですね。", "meaning": "That's good." },
+            { "jp": "わかりました。", "reading": "わかりました。", "meaning": "I see." },
+            { "jp": "何ですか。", "reading": "何ですか。", "meaning": "Yes?" },
+            { "jp": "じゃ、また[あした]。", "reading": "じゃ、また[あした]。", "meaning": "See you [tomorrow]." }
+          ]
+        },
+        {
+          "category": "Proper Nouns",
+          "words": [
+            { "jp": "メキシコ", "reading": "メキシコ", "meaning": "Mexico" },
+            { "jp": "おおさかじょうこうえん", "reading": "おおさかじょうこうえん", "meaning": "Osaka Castle park" }
+          ]
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "Lesson 7",
+      "categories": [
+        {
+          "category": "Verbs",
+          "words": [
+            { "jp": "きります", "reading": "きります", "meaning": "cut, slice" },
+            { "jp": "おくります", "reading": "おくります", "meaning": "send" },
+            { "jp": "あげます", "reading": "あげます", "meaning": "give" },
+            { "jp": "もらいます", "reading": "もらいます", "meaning": "receive" },
+            { "jp": "かします", "reading": "かします", "meaning": "lend" },
+            { "jp": "かります", "reading": "かります", "meaning": "borrow" },
+            { "jp": "おしえます", "reading": "おしえます", "meaning": "teach" },
+            { "jp": "ならいます", "reading": "ならいます", "meaning": "learn" },
+            { "jp": "かけます", "reading": "かけます", "meaning": "make [a telephone call] (電話を〜)" }
+          ]
+        },
+        {
+          "category": "Tools & Utensils",
+          "words": [
+            { "jp": "て", "reading": "て", "meaning": "hand, arm" },
+            { "jp": "はし", "reading": "はし", "meaning": "chopsticks" },
+            { "jp": "スプーン", "reading": "スプーン", "meaning": "spoon" },
+            { "jp": "ナイフ", "reading": "ナイフ", "meaning": "knife" },
+            { "jp": "フォーク", "reading": "フォーク", "meaning": "fork" },
+            { "jp": "はさみ", "reading": "はさみ", "meaning": "scissors" }
+          ]
+        },
+        {
+          "category": "Office Supplies & Technology",
+          "words": [
+            { "jp": "ファクス", "reading": "ファクス", "meaning": "fax" },
+            { "jp": "ワープロ", "reading": "ワープロ", "meaning": "word processor" },
+            { "jp": "パソコン", "reading": "パソコン", "meaning": "personal computer" },
+            { "jp": "パンチ", "reading": "パンチ", "meaning": "punch" },
+            { "jp": "ホッチキス", "reading": "ホッチキス", "meaning": "stapler" },
+            { "jp": "セロテープ", "reading": "セロテープ", "meaning": "Scotch tape, clear adhesive tape" },
+            { "jp": "けしゴム", "reading": "けしゴム", "meaning": "eraser" },
+            { "jp": "かみ", "reading": "かみ", "meaning": "paper" }
+          ]
+        },
+        {
+          "category": "Items & Occasions",
+          "words": [
+            { "jp": "はな", "reading": "はな", "meaning": "flower, blossom" },
+            { "jp": "シャツ", "reading": "シャツ", "meaning": "shirt" },
+            { "jp": "プレゼント", "reading": "プレゼント", "meaning": "present, gift" },
+            { "jp": "にもつ", "reading": "にもつ", "meaning": "baggage, parcel" },
+            { "jp": "おかね", "reading": "おかね", "meaning": "money" },
+            { "jp": "きっぷ", "reading": "きっぷ", "meaning": "ticket" },
+            { "jp": "クリスマス", "reading": "クリスマス", "meaning": "Christmas" },
+            { "jp": "りょこう", "reading": "りょこう", "meaning": "trip, tour (〜をします travel, make a trip)" },
+            { "jp": "おみやげ", "reading": "おみやげ", "meaning": "souvenir, present" }
+          ]
+        },
+        {
+          "category": "Family",
+          "words": [
+            { "jp": "ちち", "reading": "ちち", "meaning": "(my) father" },
+            { "jp": "はは", "reading": "はは", "meaning": "(my) mother" },
+            { "jp": "おとうさん", "reading": "おとうさん", "meaning": "(someone else's) father" },
+            { "jp": "おかあさん", "reading": "おかあさん", "meaning": "(someone else's) mother" }
+          ]
+        },
+        {
+          "category": "Time & Adverbs",
+          "words": [
+            { "jp": "もう", "reading": "もう", "meaning": "already" },
+            { "jp": "まだ", "reading": "まだ", "meaning": "not yet" },
+            { "jp": "これから", "reading": "これから", "meaning": "from now on, soon" }
+          ]
+        },
+        {
+          "category": "Expressions",
+          "words": [
+            { "jp": "[〜、]すてきですね。", "reading": "[〜、]すてきですね。", "meaning": "What a nice [〜]!" },
+            { "jp": "ごめんください。", "reading": "ごめんください。", "meaning": "Excuse me./Anybody home?/May I come in?" },
+            { "jp": "いらっしゃい。", "reading": "いらっしゃい。", "meaning": "How nice of you to come." },
+            { "jp": "どうぞおあがりください。", "reading": "どうぞおあがりください。", "meaning": "Do come in." },
+            { "jp": "しつれいします。", "reading": "しつれいします。", "meaning": "Thank you./May I?" },
+            { "jp": "[〜は]いかがですか。", "reading": "[〜は]いかがですか。", "meaning": "Won't you have [〜]?/Would you like to have [〜]?" },
+            { "jp": "いただきます。", "reading": "いただきます。", "meaning": "Thank you./I accept." }
+          ]
+        },
+        {
+          "category": "Proper Nouns",
+          "words": [
+            { "jp": "ヨーロッパ", "reading": "ヨーロッパ", "meaning": "Europe" },
+            { "jp": "スペイン", "reading": "スペイン", "meaning": "Spain" }
+          ]
+        }
+      ]
     }
   ]
 }

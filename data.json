@@ -321,6 +321,121 @@
           ]
         }
       ]
+    },
+    {
+      "lesson": 5,
+      "title": "Lesson 5",
+      "categories": [
+        {
+          "category": "Verbs",
+          "words": [
+            { "jp": "いきます", "reading": "いきます", "meaning": "go" },
+            { "jp": "きます", "reading": "きます", "meaning": "come" },
+            { "jp": "かえります", "reading": "かえります", "meaning": "go home, return" }
+          ]
+        },
+        {
+          "category": "Places",
+          "words": [
+            { "jp": "がっこう", "reading": "がっこう", "meaning": "school" },
+            { "jp": "スーパー", "reading": "スーパー", "meaning": "supermarket" },
+            { "jp": "えき", "reading": "えき", "meaning": "station" }
+          ]
+        },
+        {
+          "category": "Transport",
+          "words": [
+            { "jp": "ひこうき", "reading": "ひこうき", "meaning": "airplane" },
+            { "jp": "ふね", "reading": "ふね", "meaning": "ship" },
+            { "jp": "でんしゃ", "reading": "でんしゃ", "meaning": "electric train" },
+            { "jp": "ちかてつ", "reading": "ちかてつ", "meaning": "subway, underground" },
+            { "jp": "しんかんせん", "reading": "しんかんせん", "meaning": "the Shinkansen, the bullet train" },
+            { "jp": "バス", "reading": "バス", "meaning": "bus" },
+            { "jp": "タクシー", "reading": "タクシー", "meaning": "taxi" },
+            { "jp": "じてんしゃ", "reading": "じてんしゃ", "meaning": "bicycle" },
+            { "jp": "あるいて", "reading": "あるいて", "meaning": "on foot" }
+          ]
+        },
+        {
+          "category": "People",
+          "words": [
+            { "jp": "ひと", "reading": "ひと", "meaning": "person, people" },
+            { "jp": "ともだち", "reading": "ともだち", "meaning": "friend" },
+            { "jp": "かれ", "reading": "かれ", "meaning": "he, boyfriend, lover" },
+            { "jp": "かのじょ", "reading": "かのじょ", "meaning": "she, girlfriend, lover" },
+            { "jp": "かぞく", "reading": "かぞく", "meaning": "family" },
+            { "jp": "ひとりで", "reading": "ひとりで", "meaning": "alone, by oneself" }
+          ]
+        },
+        {
+          "category": "Time",
+          "words": [
+            { "jp": "せんしゅう", "reading": "せんしゅう", "meaning": "last week" },
+            { "jp": "こんしゅう", "reading": "こんしゅう", "meaning": "this week" },
+            { "jp": "らいしゅう", "reading": "らいしゅう", "meaning": "next week" },
+            { "jp": "せんげつ", "reading": "せんげつ", "meaning": "last month" },
+            { "jp": "こんげつ", "reading": "こんげつ", "meaning": "this month" },
+            { "jp": "らいげつ", "reading": "らいげつ", "meaning": "next month" },
+            { "jp": "きょねん", "reading": "きょねん", "meaning": "last year" },
+            { "jp": "ことし", "reading": "ことし", "meaning": "this year" },
+            { "jp": "らいねん", "reading": "らいねん", "meaning": "next year" }
+          ]
+        },
+        {
+          "category": "Months",
+          "words": [
+            { "jp": "ーがつ", "reading": "ーがつ", "meaning": "-th month of the year" },
+            { "jp": "なんがつ", "reading": "なんがつ", "meaning": "what month" }
+          ]
+        },
+        {
+          "category": "Days of the Month",
+          "words": [
+            { "jp": "ついたち", "reading": "ついたち", "meaning": "first day of the month" },
+            { "jp": "ふつか", "reading": "ふつか", "meaning": "second, two days" },
+            { "jp": "みっか", "reading": "みっか", "meaning": "third, three days" },
+            { "jp": "よっか", "reading": "よっか", "meaning": "fourth, four days" },
+            { "jp": "いつか", "reading": "いつか", "meaning": "fifth, five days" },
+            { "jp": "むいか", "reading": "むいか", "meaning": "sixth, six days" },
+            { "jp": "なのか", "reading": "なのか", "meaning": "seventh, seven days" },
+            { "jp": "ようか", "reading": "ようか", "meaning": "eighth, eight days" },
+            { "jp": "ここのか", "reading": "ここのか", "meaning": "ninth, nine days" },
+            { "jp": "とおか", "reading": "とおか", "meaning": "tenth, ten days" },
+            { "jp": "じゅうよっか", "reading": "じゅうよっか", "meaning": "fourteenth, fourteen days" },
+            { "jp": "はつか", "reading": "はつか", "meaning": "twentieth, twenty days" },
+            { "jp": "にじゅうよっか", "reading": "にじゅうよっか", "meaning": "twenty fourth, twenty four days" },
+            { "jp": "ーにち", "reading": "ーにち", "meaning": "-th day of the month, - days" },
+            { "jp": "なんにち", "reading": "なんにち", "meaning": "which day of the month, how many days" }
+          ]
+        },
+        {
+          "category": "Others",
+          "words": [
+            { "jp": "いつ", "reading": "いつ", "meaning": "when" },
+            { "jp": "たんじょうび", "reading": "たんじょうび", "meaning": "birthday" },
+            { "jp": "ふつう", "reading": "ふつう", "meaning": "local (train)" },
+            { "jp": "きゅうこう", "reading": "きゅうこう", "meaning": "rapid" },
+            { "jp": "とっきゅう", "reading": "とっきゅう", "meaning": "express" },
+            { "jp": "つぎの", "reading": "つぎの", "meaning": "next" }
+          ]
+        },
+        {
+          "category": "Expressions",
+          "words": [
+            { "jp": "どういたしまして。", "reading": "どういたしまして。", "meaning": "You're welcome./Don't mention it." },
+            { "jp": "ーばんせん", "reading": "ーばんせん", "meaning": "platform -, -th platform" }
+          ]
+        },
+        {
+          "category": "Proper Nouns",
+          "words": [
+            { "jp": "はかた", "reading": "はかた", "meaning": "name of a town in Kyushu" },
+            { "jp": "ふしみ", "reading": "ふしみ", "meaning": "name of a town in Kyoto" },
+            { "jp": "こうしえん", "reading": "こうしえん", "meaning": "name of a town near Osaka" },
+            { "jp": "おおさかじょう", "reading": "おおさかじょう", "meaning": "Osaka Castle, a famous castle in Osaka" }
+          ]
+        }
+      ]
     }
   ]
 }
